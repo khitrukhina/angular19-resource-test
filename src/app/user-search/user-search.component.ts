@@ -2,7 +2,6 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-user-search',
-  standalone: true,
   template: `
     <fieldset>
       <legend>Users Search</legend>

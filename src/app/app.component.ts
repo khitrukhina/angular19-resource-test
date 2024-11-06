@@ -3,7 +3,6 @@ import { UserSearchComponent } from './user-search/user-search.component';
 
 @Component({
   selector: 'app-root',
-  standalone: true,
   imports: [UserSearchComponent],
   template: `
     <img class="logo" src="./logo.svg" alt="Decoded Frontend" />
